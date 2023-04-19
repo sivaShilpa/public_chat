@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Poller+One&family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poller', 'Poppins';
+    background-color: brown;
+}
+
+.main-container{
+    width: 400px;
+    margin: 0 auto;
+}
